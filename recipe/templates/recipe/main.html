@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Main Page</title>
+</head>
+<body>
+    <h1>Last 5 Recipes</h1>
+    <ul>
+    {% for recipe in recipes %}
+        <li>{{ recipe.title }}</li>
+    {% endfor %}
+    </ul>
+</body>
+</html>
