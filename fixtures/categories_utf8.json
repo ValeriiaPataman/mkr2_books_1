@@ -1,0 +1,1 @@
+[{"model": "recipe.category", "pk": 1, "fields": {"name": "Fish and seafood"}}, {"model": "recipe.category", "pk": 2, "fields": {"name": "Soups"}}, {"model": "recipe.category", "pk": 3, "fields": {"name": "Salads"}}, {"model": "recipe.category", "pk": 4, "fields": {"name": "Desserts"}}]
